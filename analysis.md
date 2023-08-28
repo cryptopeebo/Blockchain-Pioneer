@@ -1,5 +1,5 @@
 # StreamChain Ledger: The Digital Evolution of Decentralized Transactions! 🌐💼
-![Alt text](Images/dreamshaper.jpg)
+![Alt text](Instructions/Images/dreamshaper.jpg)
 
 Greetings, digital navigators! The decentralized finance horizon is expanding, and as pathfinders, we're steering the ship into uncharted waters. Using a refined Python script, we're architecting a next-gen, blockchain-backed ledger. This isn't just any ledger – it's a testament to innovation and a beacon of financial transparency.
 
@@ -42,7 +42,9 @@ Our mission involves refining a given script. This isn't just code; it's art:
 2. Revamping the `LedgerBlock` class. Goodbye `data`, hello `transaction`.
 3. Enhancing Streamlit for interactive transaction logging.
 4. Validating our StreamChain, a process that involves block creation and blockchain validation.
-![Alt text](Images/vision.jpg)
+
+![
+](Instructions/Images/vision.jpg)
 
 ## The Vision 🎯
 
@@ -58,20 +60,20 @@ Buckle up, navigators! It's not just coding; it's pioneering! 🌐🔍
 ## Digital Snapshots 📸
 
 Immerse yourself in the digital marvel that is our StreamChain Ledger application.
-![Alt text](Images/streamchain.png)
+![Alt text](Instructions/Images/streamchain.png)
 
 
 ### The Streamlit Command Center
-![Alt text](Images/coimmandcenter.png)
+![Alt text](Instructions/Images/coimmandcenter.png)
 
 At the heart of our application lies the Streamlit dashboard. It's not just an interface; it's the nexus of interaction. From logging transactions to celebrating block additions with balloons, this is where the magic happens.
 
 ### Delving Deep with Block Inspector 🔎
-![Alt text](Images/inspectorblock.png)
+![Alt text](Instructions/Images/inspectorblock.png)
 
 Transparency is the name of the game. With the Block Inspector, every transaction is an open book. Dive deep, validate, and trust the process.
 
 ### Chain Authenticity in Action
-![Alt text](Images/chainauthenticity.png)
+![Alt text](Instructions/Images/chainauthenticity.png)
 
 Validation isn't just a process; it's a commitment to integrity. With a single click, authenticate every link in the chain. It's not just about trust; it's about setting the gold standard.
